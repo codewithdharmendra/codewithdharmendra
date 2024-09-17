@@ -3,14 +3,14 @@
 I'm a passionate .NET Developer with a strong focus on building scalable, high-performance applications using the .NET ecosystem.<br>
 I have experience in developing solutions ranging from web applications to desktop software and cloud-native services.
 <hr>
-<B>⚙️ Technologies & Tools</B><br>
+⚙️ Technologies & Tools<br><br>
 
 Languages: C#, ASP.NET Core<br>
 Frameworks: .NET 5/6/7, Entity Framework<br> 
 Databases: SQL Server, MySQL<br>
 Others: RESTful APIs, Microservices, Clean Architecture<br>
 <hr>
-<b>💡 Fun Facts:<b><br>
+💡 Fun Facts:<br><br>
 
 Love exploring new features in the .NET ecosystem<br>
 Interested in cloud-native solutions and building microservices<br>
