@@ -1,4 +1,4 @@
- 👋 <b>Hello, I'm Dharmendra<b>
+ 👋 <h2>Hello, I'm Dharmendra<h2>
 <hr>  
 I'm a passionate .NET Developer with a strong focus on building scalable, high-performance applications using the .NET ecosystem.<br>
 I have experience in developing solutions ranging from web applications to desktop software and cloud-native services.
