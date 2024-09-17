@@ -5,7 +5,7 @@ I have experience in developing solutions ranging from web applications to deskt
 <hr>
 ⚙️ Technologies & Tools<br><br>
 
-Languages: C#, ASP.NET Core<br>
+Languages: C#, ASP.NET Core , HTML,CSS,JAVASCRIPT,C<br>
 Frameworks: .NET 5/6/7, Entity Framework<br> 
 Databases: SQL Server, MySQL<br>
 Others: RESTful APIs, Microservices, Clean Architecture<br>
